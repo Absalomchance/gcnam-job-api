@@ -1,0 +1,7 @@
+{
+  "name": "PHP Dev Container",
+  "image": "mcr.microsoft.com/vscode/devcontainers/php:8.0",
+  "forwardPorts": [8000],
+  "postStartCommand": "php -S 0.0.0.0:8000 -t /workspaces/gcnam-project",
+  "workspaceFolder": "/workspaces/gcnam-job-api"
+}
