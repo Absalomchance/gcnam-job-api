@@ -10,21 +10,6 @@ A lightweight PHP-based API system for checking service rates before bookings. B
 - 📡 Designed for integration with web and mobile clients
 - 🌍 Portable and easy to deploy locally or via cloud
 
-## 📁 Project Structure
-
-/gcnam-job-api
-├── .devcontainer/ # Devcontainer configuration for GitHub Codespaces
-│ └── devcontainer.json
-├── api/ # Main API logic (endpoints, controllers)
-├── config/ # Configuration files (DB, env settings)
-├── public/ # Public directory for serving with PHP built-in server
-├── .gitignore
-├── composer.json # Composer dependencies (if any)
-└── README.md
-
-markdown
-Copy
-Edit
 
 ## 🧑‍💻 Getting Started
 
